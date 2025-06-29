@@ -4,11 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>欢迎 welcome</title>
     <!-- Favicon设置 -->
-    <link rel="icon" href="pic//favicon-32x32.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="pic//favicon-32x32.ico" type="image/x-icon">
-    <link rel="icon" type="image/png" href="pic//favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="pic//favicon-16x16.png" sizes="16x16">
-    <link rel="apple-touch-icon" href="pic//apple-touch-icon.png">
+    <link rel="icon" href="favicon-32x32.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon-32x32.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
     
     <style>
         body {
@@ -16,7 +16,7 @@
             color: #33333300;
             margin: 0;
             padding: 0;
-            background: url('pic//背景.png') no-repeat center center fixed;
+            background: url('背景.png') no-repeat center center fixed;
             background-size: cover;
             min-height: 100vh;
             position: relative;
@@ -275,7 +275,7 @@
                 <div class="meta">⭐ 收藏 | 更新于 2025-06-20 | 提取码：0620</div>
                 <div class="preview-container">
                     <div class="image-grid">
-                        <img src="pic\\yh\\1.png" class="preview-img" alt="烟花模拟器预览1" onclick="openModal(this, 'fireworks')">  
+                        <img src="yh1.png" class="preview-img" alt="烟花模拟器预览1" onclick="openModal(this, 'fireworks')">  
                     </div>
                 </div>
             </li>
@@ -285,8 +285,8 @@
                 <div class="meta">⭐ 收藏 | 更新于 2025-06-29 | 提取码：9261</div>
                 <div class="preview-container">
                     <div class="image-grid">
-                        <img src="pic\\tp\\1.png" class="preview-img" alt="五子棋网页版预览1" onclick="openModal(this, 'gobang')">
-                        <img src="pic\\tp\\2.png" class="preview-img" alt="五子棋网页版预览2" onclick="openModal(this, 'gobang')">
+                        <img src="tp1.png" class="preview-img" alt="五子棋网页版预览1" onclick="openModal(this, 'gobang')">
+                        <img src="tp2.png" class="preview-img" alt="五子棋网页版预览2" onclick="openModal(this, 'gobang')">
                 </div>
             </li>
             <li>
@@ -295,8 +295,8 @@
                 <div class="meta">⭐ 收藏 | 更新于 2025-06-20 | 提取码：2202</div>
                 <div class="preview-container">
                     <div class="image-grid">
-                        <img src="pic\\ld\\1.png" class="preview-img" alt="游戏商店模板预览1" onclick="openModal(this, 'gamestore')">
-                        <img src="pic\\ld\\2.png" class="preview-img" alt="游戏商店模板预览2" onclick="openModal(this, 'gamestore')">
+                        <img src="ld1.png" class="preview-img" alt="游戏商店模板预览1" onclick="openModal(this, 'gamestore')">
+                        <img src="ld2.png" class="preview-img" alt="游戏商店模板预览2" onclick="openModal(this, 'gamestore')">
                     </div>
                 </div>
             </li>
