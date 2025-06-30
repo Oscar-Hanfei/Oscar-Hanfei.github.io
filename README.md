@@ -272,7 +272,7 @@
         <ul>
             <li>
                 <a href="https://www.123865.com/s/KiwrTd-rQ40v" target="_blank">烟花模拟器</a>
-                <p class="desc">一个精美的烟花模拟器，可以自定义烟花效果和颜色，带来视觉盛宴。</p> 
+                <p class="desc">一个精美的烟花模拟器，给你带来视觉盛宴。</p> 
                 <div class="meta">⭐ 收藏 | 更新于 2025-06-20 | 提取码：0620</div>
                 <div class="preview-container">
                     <div class="image-grid">
